@@ -4,4 +4,4 @@ This is my first R project, synced to Github! it follows the lecture notes at <h
 
 My name is Zoe
 
-
+This is another new line!
